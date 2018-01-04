@@ -1,4 +1,4 @@
-# Pythonand Machine Learning with Spark for Big Data
+# Python and Machine Learning with Spark for Big Data
 
 
 * Course Introduction
